@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Smart Billing Software",
+      "category": "Billing System",
+      "description": "A complete billing solution with invoice generation, GST support, and customer management.",
+      "tech": ["Java", "Spring Boot", "MySQL"],
+      "image": "/images/billing-software.png",
+      "demo": "https://your-demo-link.com",
+      "github": "https://github.com/Eswaran-IT/billing-software"
+    },
+    {
+      "name": "Inventory Tracker Pro",
+      "category": "Inventory Management",
+      "description": "Track stock levels, sales, and automate inventory alerts with a clean dashboard.",
+      "tech": ["React", "Node.js", "MongoDB"],
+      "image": "/images/inventory.png",
+      "demo": "",
+      "github": "https://github.com/Eswaran-IT/inventory-tracker"
+    }
+  ]
+  
