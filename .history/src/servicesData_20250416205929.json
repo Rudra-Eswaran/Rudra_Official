@@ -1,0 +1,40 @@
+
+export[] const servicesData = [
+    {
+      id: 1,
+      title: "Cloud Solutions",
+      description: "Scalable and secure cloud infrastructure using AWS, Azure, and GCP tailored for business growth.",
+      icon: "☁️"
+    },
+    {
+      id: 2,
+      title: "AI & ML Development",
+      description: "Intelligent systems with machine learning models and AI-powered analytics for smarter decision-making.",
+      icon: "🤖"
+    },
+    {
+      id: 3,
+      title: "Product Development",
+      description: "From ideation to deployment – complete product engineering lifecycle support for startups and enterprises.",
+      icon: "🛠️"
+    },
+    {
+      id: 4,
+      title: "Software Development",
+      description: "Custom software built with modern technologies to meet unique business needs and improve workflows.",
+      icon: "💻"
+    },
+    {
+      id: 5,
+      title: "DevOps & Automation",
+      description: "CI/CD pipelines, infrastructure as code, and release automation to streamline development processes.",
+      icon: "⚙️"
+    },
+    {
+      id: 6,
+      title: "Cybersecurity Solutions",
+      description: "End-to-end security services including threat detection, risk assessment, and data protection.",
+      icon: "🔐"
+    }
+  ];
+  
