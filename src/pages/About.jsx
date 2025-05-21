@@ -51,9 +51,7 @@ const About = () => {
       >
         <h1 className="text-5xl font-bold mb-4 max-w-full break-words">About</h1>
         <p className="text-lg leading-relaxed max-w-full">
-          We are a passionate tech team specializing in scalable, clean code
-          development using Java, AWS, and Spring Boot. Skilled in automation,
-          REST APIs, and UI design. We build with purpose and precision.
+           I’m a passionate and detail-oriented Java developer with hands-on experience in Spring Boot, AWS, and automation tools. I specialize in building clean, scalable applications with a strong focus on REST APIs, backend logic, and smooth UI integration. With a deep interest in tech, I consistently deliver well-structured, efficient code—built with clarity, precision, and purpose.
         </p>
       </motion.div>
 
