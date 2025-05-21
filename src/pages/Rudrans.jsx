@@ -23,7 +23,7 @@ const Rudrans = () => {
       <div className="flex items-center gap-3 mb-4">
         <FaCode size={32} className="text-blue-600 animate-pulse" data-aos="fade-right" />
         <h1 className="text-blue-600 font-semibold text-3xl" data-aos="fade-left">
-          Rudrans Tech Team
+          Tech Team
         </h1>
       </div>
 
