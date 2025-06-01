@@ -1,7 +1,7 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import { FaLinkedin, FaGithub, FaDownload } from "react-icons/fa";
-import Resume from "../assets/Eswaran_Resume.pdf"; // ✅ Import your resume
+import Resume from "../assets/Eswaran_Resume.pdf"; // ✅ Only this line added
 
 const Home = () => {
   return (
@@ -27,7 +27,7 @@ const Home = () => {
 
       <div className="flex items-center justify-center gap-8 flex-wrap max-w-full">
         <a
-          href={Resume} // ✅ Updated to use imported PDF
+          href={Resume} // ✅ Updated to use imported resume
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 bg-[#3366CC] text-white px-4 py-2 rounded-lg font-extrabold hover:bg-[#254c99] transition"
